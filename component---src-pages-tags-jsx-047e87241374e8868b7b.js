@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{170:function(t,e,a){"use strict";a.r(e);var n=a(4),p=(a(0),a(1)),s=a.n(p),c=a(181),o=a(183),r=function(t){var e=t.pageContext.tags;return Object(n.d)(c.c,null,Object(n.d)(o.b,{title:"Tags Page"}),Object(n.d)(c.a,null,Object(n.d)(o.e,{list:e})))};e.default=r,r.propTypes={pageContext:s.a.shape({tags:s.a.array})}}}]);
-//# sourceMappingURL=component---src-pages-tags-jsx-047e87241374e8868b7b.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{PcuZ:function(t,e,n){"use strict";n.r(e);n("q1tI");var c=n("tCqT"),a=n("TiLl"),u=n("qKvR");e.default=function(t){var e=t.pageContext.tags;return Object(u.d)(c.c,null,Object(u.d)(a.b,{title:"Tags Page"}),Object(u.d)(c.a,null,Object(u.d)(a.e,{list:e})))}}}]);
+//# sourceMappingURL=component---src-pages-tags-jsx-85e52aa884a61b94cf39.js.map

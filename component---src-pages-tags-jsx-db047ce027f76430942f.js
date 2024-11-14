@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_tutorial_starter=self.webpackChunkgatsby_tutorial_starter||[]).push([[898],{8122:function(t,a,e){e.r(a);e(6540);var s=e(4299),l=e(543),r=e(3108);a.default=t=>{let{pageContext:a}=t;const{tags:e}=a;return(0,r.Y)(s.PE,null,(0,r.Y)(l.Y9,{title:"Tags Page"}),(0,r.Y)(s.mc,null,(0,r.Y)(l.hI,{list:e})))}}}]);
-//# sourceMappingURL=component---src-pages-tags-jsx-db047ce027f76430942f.js.map
